@@ -1,0 +1,11 @@
+agm-map {
+    height: 300px;
+}
+
+.energy-icon {
+    float: left; 
+}
+.energy-value {
+    float: left; 
+    margin-top: 5px;
+}
